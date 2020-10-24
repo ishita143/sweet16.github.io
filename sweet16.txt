@@ -6,7 +6,7 @@
 <title> Happy Birthday</title>
 </head>
 
-<body background = "ishita143/sweet16.github.io/backg.jpeg">
+<body background = "backg.jpeg">
 <font face = 'Comic Sans MS'>
 Dear Sister,
 <br>
