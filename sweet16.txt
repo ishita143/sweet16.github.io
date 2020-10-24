@@ -7,7 +7,7 @@
 
 <body background = "backimg.jpeg">
 <<<<<<< HEAD
-<font face = 'verdana'>
+<font face = 'verdana' color = 'white'>
 =======
 <font face = 'Comic Sand MS'>
 >>>>>>> c8615a26d7bcded26f44c9b44c946c2fcefb33e6
