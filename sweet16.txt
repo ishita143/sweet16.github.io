@@ -6,7 +6,11 @@
 </head>
 
 <body background = "backg.jpeg">
+<<<<<<< HEAD
 <font face = 'verdana'>
+=======
+<font face = 'Comic Sand MS'>
+>>>>>>> c8615a26d7bcded26f44c9b44c946c2fcefb33e6
 Dear Sister,
 <br>
 <p><t>I know that i am not even the last person in your piority list, but I don't care...!!  You donkey turned 16...!! You are really special, my little sisto ... :) we used to fight and hate each other the most (not 'used to' but 'still do') We make fun of all those guys and take a lot of selfies when we were alone Our long chats though we live in the same house; each and every minute we spent together; fighting, scolding, slapping is very special... I assure you that I wont let you face anything as you have faced them all. 
