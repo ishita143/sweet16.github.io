@@ -1,10 +1,12 @@
+<!DOCTYPE html>
+
 <html>
 
 <head> 
 <title> Happy Birthday</title>
 </head>
 
-<body>
+<body background = "backg.jpeg">
 <font face = 'Comic Sans MS'>
 Dear Sister,
 <br>
