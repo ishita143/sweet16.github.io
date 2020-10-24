@@ -5,7 +5,7 @@
 <title> Happy Birthday</title>
 </head>
 
-<body background = "backg.jpeg">
+<body background = "backimg.jpeg">
 <<<<<<< HEAD
 <font face = 'verdana'>
 =======
